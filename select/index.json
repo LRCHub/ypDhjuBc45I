@@ -1,0 +1,184 @@
+{
+  "version": 1,
+  "base_track": "打上花火",
+  "base_artist": "Kenshi Yonezu",
+  "createdAt": "2025-12-03T04:18:22.448697Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "打上花火",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/01_打上花火_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "打上花火",
+      "artist": "DAOKOx米津玄師",
+      "has_synced": true,
+      "path": "select/02_打上花火_DAOKOx米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "打上花火",
+      "artist": "DAOKO×米津玄師",
+      "has_synced": true,
+      "path": "select/03_打上花火_DAOKO×米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "打上花火",
+      "artist": "DAOKO, 米津玄師",
+      "has_synced": true,
+      "path": "select/04_打上花火_DAOKO,_米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "打上花火 (DAOKO SOLO ver.)",
+      "artist": "DAOKO",
+      "has_synced": true,
+      "path": "select/05_打上花火_(DAOKO_SOLO_ver.)_DAOKO.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "打上花火",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/06_打上花火_米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "打上花火",
+      "artist": "Daoko/Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/07_打上花火_Daoko_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Uchiage Hanabi (DAOKO SOLO ver.) [打上花火 (DAOKO SOLO ver.)]",
+      "artist": "DAOKO",
+      "has_synced": true,
+      "path": "select/08_Uchiage_Hanabi_(DAOKO_SOLO_ver.)_[打上花火_(DAOKO_SOLO_ver.)]_DAOKO.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "打上花火",
+      "artist": "DAOKO",
+      "has_synced": true,
+      "path": "select/09_打上花火_DAOKO.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "打上花火",
+      "artist": "Ai Kawashima",
+      "has_synced": true,
+      "path": "select/10_打上花火_Ai_Kawashima.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "打上花火",
+      "artist": "川嶋あい",
+      "has_synced": true,
+      "path": "select/11_打上花火_川嶋あい.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "打上花火",
+      "artist": "Daoko, Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/12_打上花火_Daoko,_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "打上花火",
+      "artist": "DAOKO×米津玄師",
+      "has_synced": true,
+      "path": "select/13_打上花火_DAOKO×米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "打上花火",
+      "artist": "DAOKO • Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/14_打上花火_DAOKO_•_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "打上花火",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_01_打上花火_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "打上花火",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_02_打上花火_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "打上花火",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_03_打上花火_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "打上花火",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_04_打上花火_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "打上花火",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_05_打上花火_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "打上花火",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_06_打上花火_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "打上花火",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_07_打上花火_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "打上花火",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_08_打上花火_米津玄師.txt"
+    }
+  ]
+}
